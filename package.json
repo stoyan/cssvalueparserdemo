@@ -1,0 +1,22 @@
+{
+  "name": "cssvalueparserdemo",
+  "version": "0.1.0",
+  "description": "A demo",
+  "keywords": [
+    "css",
+    "transform",
+    "parse",
+    "postcss"
+  ],
+  "author": "Stoyan <ssttoo@ymail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stoyan/cssvalueparserdemo.git"
+  },
+  "dependencies": {
+    "postcss-value-parser": "*"
+  },
+  "devDependencies": {
+    "microbundle": "^0.9.0"
+  }
+}
